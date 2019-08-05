@@ -1,5 +1,5 @@
 ---
-title: 'Placeholder Slides Title 2'
+title: 'Placeholder Slides - 2 Title'
 hide_git_sync_repo_link: false
 hide_title: false
 ---
@@ -8,7 +8,7 @@ hide_title: false
 
 # CPT 363
 
-### Placeholder Slides
+### Placeholder Slides - 2
 
 > “A work in progress. And the possibilities are endless.”
 -- Elizabeth Eulberg
