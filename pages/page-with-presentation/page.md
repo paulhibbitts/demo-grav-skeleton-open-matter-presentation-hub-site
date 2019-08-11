@@ -1,8 +1,10 @@
 ---
-title: Page with Presentation
+title: 'Page with Presentation'
 published: true
-visible: true
 hide_page_title: true
+show_sidebar: true
+hide_git_sync_repo_link: false
+visible: true
 ---
 
 [presentation="/presentations/placeholder-slides"]
