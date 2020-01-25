@@ -7,4 +7,4 @@ show_sidebar: true
 hide_git_sync_repo_link: false
 ---
 
-[presentation="lf2019/presentations/placeholder-slides"]
+[presentation="gravoverview/presentations/placeholder-slides"]
