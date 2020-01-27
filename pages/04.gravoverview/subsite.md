@@ -7,4 +7,5 @@ hide_from_subsite_list: false
 subsite_home: home
 page-inject:
     processed_content: true
+redirect: '/gravoverview/home'
 ---
